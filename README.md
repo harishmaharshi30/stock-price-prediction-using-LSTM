@@ -1,2 +1,2 @@
-# stock-price-prediction-using-LSTM
-Predicting Apple’s stock prices using an LSTM (Long Short-Term Memory) neural network. This project leverages deep learning for time series forecasting, analyzing historical stock data to model patterns and generate accurate future price predictions.
+# Mastering-Python
+Comprehensive Python-based Data Science and Machine Learning projects covering EDA, model building, NLP, and deployment. Designed to showcase practical skills, real-world problem solving, and end-to-end project workflows for 2024 roles
